@@ -9,5 +9,9 @@
   "exclude": [
     "test.ts",
     "**/*.spec.ts"
+  ],
+  "include": [
+      "**/*.ts",
+     "../node_modules/echarts-ng2/src/component/echarts-ng2.module.ts"
   ]
 }
